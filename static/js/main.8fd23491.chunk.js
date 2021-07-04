@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-redux-auth"]=this["webpackJsonpreact-redux-auth"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);n(0);var r=n(3),c=n.n(r),u=(n(8),n(9),n(1));var a=function(){return Object(u.jsx)("div",{})};c.a.render(Object(u.jsx)(a,{}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.8fd23491.chunk.js.map
