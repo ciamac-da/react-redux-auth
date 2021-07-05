@@ -33,15 +33,15 @@ const Counter = () => {
       <h1>Redux Counter</h1>
       { showCounter && <div className={classes.value}>{counter}</div> }
       <div>
-        <button onClick={decrementHandler}>Decrement</button>
-        <button onClick={incrementHandler}>Increment</button>
+        <button onClick={decrementHandler} className={classes.btn}>Decrement</button>
+        <button onClick={incrementHandler} className={classes.btn}>Increment</button>
       </div>
       <div>
-        <button onClick={decreaseHandler}>Decrease</button>
-        <button onClick={increaseHandler}>Increase</button>
+        <button onClick={decreaseHandler} className={classes.btn}>Decrease by 5</button>
+        <button onClick={increaseHandler} className={classes.btn}>Increase by 5</button>
       </div>
 
-      <button onClick={toggleCounterHandler}>Toggle Counter</button>
+      <button onClick={toggleCounterHandler} className={classes.btn}>Toggle Counter</button>
     </main>
   );
 };

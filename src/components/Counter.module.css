@@ -25,3 +25,17 @@
 .counter button {
 margin: 1rem;
 }
+
+.btn {
+  background-color: #3c0080;
+  color:#fff;
+  padding:5px;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: 1s
+}
+.btn:hover {
+  color:#3c0080;
+  background-color: #fff
+
+}
