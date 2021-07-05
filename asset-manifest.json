@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-redux-auth/static/css/main.b0a63b94.chunk.css",
-    "main.js": "/react-redux-auth/static/js/main.93fae540.chunk.js",
-    "main.js.map": "/react-redux-auth/static/js/main.93fae540.chunk.js.map",
+    "main.css": "/react-redux-auth/static/css/main.20bd308c.chunk.css",
+    "main.js": "/react-redux-auth/static/js/main.94123fe4.chunk.js",
+    "main.js.map": "/react-redux-auth/static/js/main.94123fe4.chunk.js.map",
     "runtime-main.js": "/react-redux-auth/static/js/runtime-main.ac36e224.js",
     "runtime-main.js.map": "/react-redux-auth/static/js/runtime-main.ac36e224.js.map",
-    "static/js/2.48d9153f.chunk.js": "/react-redux-auth/static/js/2.48d9153f.chunk.js",
-    "static/js/2.48d9153f.chunk.js.map": "/react-redux-auth/static/js/2.48d9153f.chunk.js.map",
+    "static/js/2.31034909.chunk.js": "/react-redux-auth/static/js/2.31034909.chunk.js",
+    "static/js/2.31034909.chunk.js.map": "/react-redux-auth/static/js/2.31034909.chunk.js.map",
     "index.html": "/react-redux-auth/index.html",
-    "static/css/main.b0a63b94.chunk.css.map": "/react-redux-auth/static/css/main.b0a63b94.chunk.css.map",
-    "static/js/2.48d9153f.chunk.js.LICENSE.txt": "/react-redux-auth/static/js/2.48d9153f.chunk.js.LICENSE.txt"
+    "static/css/main.20bd308c.chunk.css.map": "/react-redux-auth/static/css/main.20bd308c.chunk.css.map",
+    "static/js/2.31034909.chunk.js.LICENSE.txt": "/react-redux-auth/static/js/2.31034909.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ac36e224.js",
-    "static/js/2.48d9153f.chunk.js",
-    "static/css/main.b0a63b94.chunk.css",
-    "static/js/main.93fae540.chunk.js"
+    "static/js/2.31034909.chunk.js",
+    "static/css/main.20bd308c.chunk.css",
+    "static/js/main.94123fe4.chunk.js"
   ]
 }
